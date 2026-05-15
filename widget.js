@@ -137,7 +137,7 @@
     ._wm.u ._wav { background:#222; color:#fff; font-size:12px; }
     ._wb {
       max-width:82%; padding:9px 13px; border-radius:13px;
-      font-size:13px; line-height:1.55; color:#f0f0f0;
+      font-size:13px; line-height:1.55; color:#f0f0f0; caret-color:#ffffff;
     }
     ._wm.b ._wb { background:#1a1a1a; border:1px solid rgba(255,255,255,0.08); border-bottom-left-radius:3px; }
     ._wm.u ._wb { background:${CFG.color}; color:#fff; border-bottom-right-radius:3px; font-weight:500; }
